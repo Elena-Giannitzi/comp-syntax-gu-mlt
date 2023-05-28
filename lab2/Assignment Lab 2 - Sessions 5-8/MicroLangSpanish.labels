@@ -1,0 +1,18 @@
+PredVPS nsubj head
+ComplV2 head obj
+AdvVP head advmod
+DetCN det head
+AdjCN amod head
+PrepNP case head
+VerbP verb_prep verb
+UseComp head cop
+
+Det   DET
+Prep  ADP
+V     VERB
+V2    VERB
+A     ADJ
+N     NOUN
+Pron  PRON
+Adv   ADV
+Aux   AUX

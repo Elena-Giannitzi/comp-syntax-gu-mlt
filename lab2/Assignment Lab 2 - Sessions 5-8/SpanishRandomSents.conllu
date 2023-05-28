@@ -1,0 +1,167 @@
+# sent_id = 1
+# text = ellas matan los árboles
+# text_en = they kill the trees
+1       ellas   they_Fem_Pron   PRON    Pron    Pron-0  2       nsubj   _       _
+2       matan   kill_V2 VERB    V2      V2-6    0       root    _       _
+3       los     the_Det DET     Det     Det-0   4       det     _       _
+4       árboles tree_N  NOUN    N       N-1     2       obj     _       _
+
+# sent_id = 2
+# text = la chica espera el amigo
+# text_en = the child waits for the friend
+1       la      thePl_Det       DET     Det     Det-1   2       det     _       _
+2       chica   child_Fem_N     NOUN    N       N-0     3       nsubj   _       _
+3       espera  wait_V2 VERB    V2      V2-3    0       root    _       _
+4       el      thePl_Det       DET     Det     Det-0   5       det     _       _
+5       amigo   friend_N        NOUN    N       N-0     3       obj     _       _
+
+# sent_id = 3
+# text = una chica vieja camina con las
+# text_en = an old child walks with them
+1       una     a_Det   DET     Det     Det-1   2       det     _       _
+2       chica   child_Fem_N     NOUN    N       N-0     4       nsubj   _       _
+3       vieja   old_A   ADJ     A       A-2     2       amod    _       _
+4       camina  walk_V  VERB    V       V-3     0       root    _       _
+5       con     with_Prep       ADP     Prep    Prep-0  6       case    _       _
+6       las     they_Fem_Pron   PRON    Pron    Pron-1  4       advmod  _       _
+
+# sent_id = 4
+# text = el nube es blanco
+# text_en = the cloud is white
+1       el      thePl_Det       DET     Det     Det-0   2       det     _       _
+2       nube    cloud_N NOUN    N       N-0     4       nsubj   _       _
+3       es      UseComp VP      VP      VP-7    4       dep     _       _
+4       blanco  white_A ADJ     A       A-0     0       root    _       _
+
+# sent_id = 5
+# text = un animal negro toca ahora
+# text_en = a black animal plays now
+1       un      a_Det   DET     Det     Det-0   2       det     _       _
+2       animal  animal_N        NOUN    N       N-0     4       nsubj   _       _
+3       negro   black_A ADJ     A       A-0     2       amod    _       _
+4       toca    play_V  VERB    V       V-3     0       root    _       _
+5       ahora   now_Adv ADV     Adv     Adv-0   4       advmod  _       _
+
+# sent_id = 6
+# text = los coches pequeños los matan
+# text_en = the small cars kill them
+1       los     the_Det DET     Det     Det-0   2       det     _       _
+2       coches  car_N   NOUN    N       N-1     5       nsubj   _       _
+3       pequeños        small_A ADJ     A       A-1     2       amod    _       _
+4       los     they_Pron       PRON    Pron    Pron-1  5       obj     _       _
+5       matan   kill_V2 VERB    V2      V2-6    0       root    _       _
+
+# sent_id = 7
+# text = una ciudad las ama
+# text_en = a city loves them
+1       una     a_Det   DET     Det     Det-1   2       det     _       _
+2       ciudad  city_N  NOUN    N       N-0     4       nsubj   _       _
+3       las     they_Fem_Pron   PRON    Pron    Pron-1  4       obj     _       _
+4       ama     love_V2 VERB    V2      V2-3    0       root    _       _
+
+# sent_id = 8
+# text = la amiga los encotra ya
+# text_en = the friend finds them already
+1       la      thePl_Det       DET     Det     Det-1   2       det     _       _
+2       amiga   friend_Fem_N    NOUN    N       N-0     4       nsubj   _       _
+3       lo      he_Pron PRON    Pron    Pron-1  4       obj     _       _
+4       encontra        find_V2 VERB    V2      V2-3    0       root    _       _
+5       ya      already_Adv     ADV     Adv     Adv-0   4       advmod  _       _
+
+# sent_id = 9
+# text = ellas ven un perro
+# text_en = they see a dog
+1       ellas   they_Fem_Pron   PRON    Pron    Pron-0  2       nsubj   _       _
+2       ven     see_V2  VERB    V2      V2-6    0       root    _       _
+3       un      a_Det   DET     Det     Det-0   4       det     _       _
+4       perro   dog_N   NOUN    N       N-0     2       obj     _       _
+
+# sent_id = 10
+# text = el animal malo nada con lo
+# text_en = the bad animal swims with him
+1       el      thePl_Det       DET     Det     Det-0   2       det     _       _
+2       animal  animal_N        NOUN    N       N-0     4       nsubj   _       _
+3       malo    bad_A   ADJ     A       A-0     2       amod    _       _
+4       nada    swim_V  VERB    V       V-3     0       root    _       _
+5       con     with_Prep       ADP     Prep    Prep-0  6       case    _       _
+6       lo      he_Pron PRON    Pron    Pron-1  4       advmod  _       _
+
+# sent_id = 11
+# text = un río cálido las esperan
+# text_en = a warm river awaits them
+1       un      a_Det   DET     Det     Det-0   2       det     _       _
+2       río     river_N NOUN    N       N-0     5       nsubj   _       _
+3       cálido  warm_A  ADJ     A       A-0     2       amod    _       _
+4       las     they_Fem_Pron   PRON    Pron    Pron-1  5       obj     _       _
+5       espera  wait_V2 VERB    V2      V2-3    0       root    _       _
+
+# sent_id = 12
+# text = ellos entenden los mares
+# text_en = they understand the seas
+1       ellos   they_Pron   PRON    Pron    Pron-0  2       nsubj   _       _
+2       entenden        understand_V2   VERB    V2      V2-6    0       root    _       _
+3       los     the_Det DET     Det     Det-0   4       det     _       _
+4       mares   sea_N   NOUN    N       N-1     2       obj     _       _
+
+# sent_id = 13
+# text = él ama un chico
+# text_en = he loves a child
+1       él      he_Pron PRON    Pron    Pron-0  2       nsubj   _       _
+2       ama     love_V2 VERB    V2      V2-3    0       root    _       _
+3       un      a_Det   DET     Det     Det-0   4       det     _       _
+4       chico   child_N NOUN    N       N-0     2       obj     _       _
+
+# sent_id = 14
+# text = unos barcos son grandes
+# text_en = some boats are big
+1       unos    aPl_Det DET     Det     Det-0   2       det     _       _
+2       barcos  ship_N  NOUN    N       N-1     4       nsubj   _       _
+3       son     UseComp VP      VP      VP-10   4       dep     _       _
+4       grandes big_A   ADJ     A       A-1     0       root    _       _
+
+# sent_id = 15
+# text = ellas van con la
+# text_en = they go with her
+1       ellas   they_Fem_Pron   PRON    Pron    Pron-0  2       nsubj   _       _
+2       van     go_V    VERB    V       V-6     0       root    _       _
+3       con     with_Prep       ADP     Prep    Prep-0  4       case    _       _
+4       la      she_Pron        PRON    Pron    Pron-1  2       advmod  _       _
+
+# sent_id = 16
+# text = los vinos pequeños son frios
+# text_en = the small wines are cold
+1       los     the_Det DET     Det     Det-0   2       det     _       _
+2       vinos   wine_N  NOUN    N       N-1     5       nsubj   _       _
+3       pequeños        small_A ADJ     A       A-1     2       amod    _       _
+4       son     UseComp VP      VP      VP-10   5       dep     _       _
+5       fríos   cold_A  ADJ     A       A-1     0       root    _       _
+
+# sent_id = 17
+# text = el chico vive
+# text_en = the child lives
+1       el      thePl_Det       DET     Det     Det-0   2       det     _       _
+2       chico   child_N NOUN    N       N-0     3       nsubj   _       _
+3       vive    live_V  VERB    V       V-3     0       root    _       _
+
+# sent_id = 18
+# text = él es amarillo
+# text_en = he is yellow
+1       él      he_Pron PRON    Pron    Pron-0  3       nsubj   _       _
+2       es      UseComp VP      VP      VP-7    3       dep     _       _
+3       amarillo        yellow_A        ADJ     A       A-0     0       root    _       _
+
+# sent_id = 19
+# text = unos niños verdes las saben
+# text_en = some green boys know them
+1       unos    aPl_Det DET     Det     Det-0   2       det     _       _
+2       niños   boy_N   NOUN    N       N-1     5       nsubj   _       _
+3       verdes  green_A ADJ     A       A-1     2       amod    _       _
+4       las     they_Fem_Pron   PRON    Pron    Pron-1  5       obj     _       _
+5       saben   know_V2 VERB    V2      V2-6    0       root    _       _
+
+# sent_id = 20
+# text = ella camina ya
+# text_en = she walks already
+1       ella    she_Pron        PRON    Pron    Pron-0  2       nsubj   _       _
+2       camina  walk_V  VERB    V       V-3     0       root    _       _
+3       ya      already_Adv     ADV     Adv     Adv-0   2       advmod  _       _
